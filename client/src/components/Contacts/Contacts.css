@@ -1,0 +1,19 @@
+.contact-heading {
+  display:flex;
+  justify-content: center;
+  margin-top: 10px; 
+}
+
+.online-dot {
+  margin-left: 20%;
+}
+
+.username {
+  width: 100px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.contact-box{
+  background: #dbf4ff;
+}
+
